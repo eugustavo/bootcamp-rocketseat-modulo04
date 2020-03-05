@@ -2,6 +2,7 @@
   list-style: none;
 
   max-width: 70%;
+  width: 100%;
   margin-top: 20px;
 
   background: #FFF;
@@ -30,6 +31,10 @@
 
 li {
   list-style: none;
+}
+
+.comments ul {
+  align-items: flex-start;
 }
 
 .comment{
